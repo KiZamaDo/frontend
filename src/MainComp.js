@@ -84,7 +84,7 @@ const MainComp = () => {
                   className="btn btn-light btn-lg px-4 me-md-2"
                 >
                   <a
-                    href="https://github.com"
+                    href="https://github.com/KiZamaDo/frontend"
                     aria-label="Homepage"
                     className="footer-octicon"
                     title="GitHub"
