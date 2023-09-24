@@ -84,7 +84,7 @@ const MainComp = () => {
                   className="btn btn-light btn-lg px-4 me-md-2"
                 >
                   <a
-                    href="https://github.com/KiZamaDo/frontend"
+                    href="https://github.com/AnushkaThakur/cloud_upload"
                     aria-label="Homepage"
                     className="footer-octicon"
                     title="GitHub"
@@ -253,7 +253,7 @@ const MainComp = () => {
               <div className="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 mt-5 ">
                 <div className="col mb-3">
                   <a
-                    href="https://github.com/KiZamaDo"
+                    href="https://github.com/AnushkaThakur"
                     className="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1"
                   >
                     <svg
@@ -272,7 +272,7 @@ const MainComp = () => {
                   </a>
                   <span className="mb-3 mb-md-0 text-body-secondary">
                     {" "}
-                    Anubhav Thakur
+                    Anushka Thakur
                   </span>
                 </div>
               </div>
